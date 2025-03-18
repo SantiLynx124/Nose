@@ -1,21 +1,6 @@
 Trying to load common config
 Trying to load client config
-Hordes data does not exist, generating new files.
-Copied file config_defaults/hordes-info.json
-Copied file config_defaults/pack.mcmeta
-Copied file config_defaults/data/hordes/tags/worldgen/biome/husk_player_spawn_biomes.json
-Copied file config_defaults/data/hordes/tags/items/infection_cures.json
-Copied file config_defaults/data/hordes/tags/entity_types/infection_entities.json
-Copied file config_defaults/data/hordes/horde_data/tables/skeletons.json
-Copied file config_defaults/data/hordes/horde_data/tables/mixed_mobs.json
-Copied file config_defaults/data/hordes/horde_data/tables/illagers.json
-Copied file config_defaults/data/hordes/horde_data/tables/drowned.json
-Copied file config_defaults/data/hordes/horde_data/tables/default.json
-Copied file config_defaults/data/hordes/horde_data/scripts/default.json
-Copied file config_defaults/data/hordes/horde_data/infection_conversions.json
-Copied file config_defaults/data/hordes/horde_data/immunity_items.json
-Copied file config_defaults/data/hordes/horde_data/immune_wearables.json
-Generated data files.
+Config files are up to date, skipping data/asset generation
 Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
 Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
 Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
@@ -86,31 +71,6 @@ Loaded conversion entity.minecraft.illusioner to entity.minecraft.zombie_village
 Loaded conversion entity.minecraft.witch to entity.minecraft.zombie_villager{Attributes:[{Base:26.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWitch.name",texture:"hordes:textures/entity/zombie_witch.png"} with chance of 0.25
 Loading immunity item list
 Loading immunity item list hordes:immunity_items
-Loaded immunity item minecraft:enchanted_golden_apple with duration 150
+Loaded immunity item cure:vaccine with duration 350
 Loading wearables protection list
 Loading wearables protection list hordes:immune_wearables
-Loaded wearable protection minecraft:leather_boots with modifier 0.95
-Loaded wearable protection minecraft:leather_leggings with modifier 0.95
-Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
-Loaded wearable protection minecraft:leather_helmet with modifier 0.95
-Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
-Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
-Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
-Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
-Loaded wearable protection minecraft:iron_boots with modifier 0.9
-Loaded wearable protection minecraft:iron_leggings with modifier 0.9
-Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
-Loaded wearable protection minecraft:iron_helmet with modifier 0.9
-Loaded wearable protection minecraft:golden_boots with modifier 0.9
-Loaded wearable protection minecraft:golden_leggings with modifier 0.9
-Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
-Loaded wearable protection minecraft:golden_helmet with modifier 0.9
-Loaded wearable protection minecraft:diamond_boots with modifier 0.86
-Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
-Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
-Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
-Loaded wearable protection minecraft:netherite_boots with modifier 0.82
-Loaded wearable protection minecraft:netherite_leggings with modifier 0.82
-Loaded wearable protection minecraft:netherite_chestplate with modifier 0.82
-Loaded wearable protection minecraft:netherite_helmet with modifier 0.82
-Loaded wearable protection minecraft:turtle_helmet with modifier 0.75

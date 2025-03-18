@@ -1,5 +1,13 @@
 [
   {
+    "biomeName": "terralith:ice_marsh",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:brushlands",
+    "chance": 5
+  },
+  {
     "biomeName": "terralith:snowy_shield",
     "chance": 5
   },
@@ -41,14 +49,6 @@
   },
   {
     "biomeName": "terralith:birch_taiga",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:ice_marsh",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:brushlands",
     "chance": 5
   }
 ]

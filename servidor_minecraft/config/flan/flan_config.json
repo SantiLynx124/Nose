@@ -11,6 +11,8 @@
   "defaultClaimName": "",
   "defaultEnterMessage": "",
   "defaultLeaveMessage": "",
+  "noSpawnClaim": false,
+  "claimingCooldown": 0,
   "blacklistedWorlds": [],
   "worldWhitelist": false,
   "claimingItem": "minecraft:golden_hoe",
@@ -27,10 +29,11 @@
   "mineColoniesCheck": true,
   "buySellHandler": {
     "buyType": "MONEY",
-    "sellType": "MONEY",
     "buyValue": -1.0,
+    "buyIngredients": [],
+    "sellType": "MONEY",
     "sellValue": -1.0,
-    "ingredient": []
+    "sellIngredient": []
   },
   "maxBuyBlocks": -1,
   "lenientBlockEntityCheck": false,
@@ -124,7 +127,6 @@
       "flan:wither": true,
       "flan:bed": true,
       "flan:trading": true,
-      "flan:create_contraption": true,
       "flan:archeology": true,
       "flan:edit_claim": true,
       "flan:projectiles": true,

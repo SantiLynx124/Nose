@@ -1,0 +1,17 @@
+{
+	id: "09f5a4e6-4c5f-32f2-b2bb-8b83974f80b7"
+	type: "player"
+	player_name: "Santi_Lynx"
+	ranks: {
+		09f5a4e6-4c5f-32f2-b2bb-8b83974f80b7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Santi_Lynx"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5999"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

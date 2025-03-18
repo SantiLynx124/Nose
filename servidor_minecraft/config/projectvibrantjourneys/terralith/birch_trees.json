@@ -1,5 +1,13 @@
 [
   {
+    "biomeName": "terralith:skylands_spring",
+    "chance": 3
+  },
+  {
+    "biomeName": "terralith:haze_mountain",
+    "chance": 5
+  },
+  {
     "biomeName": "terralith:sakura_grove",
     "chance": 5
   },
@@ -54,13 +62,5 @@
   {
     "biomeName": "terralith:shield",
     "chance": 3
-  },
-  {
-    "biomeName": "terralith:skylands_spring",
-    "chance": 3
-  },
-  {
-    "biomeName": "terralith:haze_mountain",
-    "chance": 5
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "biomeName": "byg:maple_taiga",
+    "chance": 5
+  },
+  {
+    "biomeName": "byg:canadian_shield",
+    "chance": 15
+  },
+  {
     "biomeName": "byg:borealis_grove",
     "chance": 10
   },
@@ -26,13 +34,5 @@
   {
     "biomeName": "byg:autumnal_taiga",
     "chance": 20
-  },
-  {
-    "biomeName": "byg:maple_taiga",
-    "chance": 5
-  },
-  {
-    "biomeName": "byg:canadian_shield",
-    "chance": 15
   }
 ]

@@ -1,4 +1,9 @@
 {
-  "singleplayer": {},
-  "multiplayer": {}
+  "singleplayer": {
+    "Mundo nuevo": true,
+    "world": true
+  },
+  "multiplayer": {
+    "09f5a4e6-4c5f-32f2-b2bb-8b83974f80b7": true
+  }
 }

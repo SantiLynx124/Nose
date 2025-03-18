@@ -27,6 +27,8 @@
   "conflictOther": "Claim would overlap other claims",
   "wrongMode": "Wrong claim mode. You are in %1$s-mode",
   "stringScreenReturn": "Click on paper to go back",
+  "conflictSpawn": "Claim would spawn protection area",
+  "claimCooldown": "You need to wait %s ticks before creating another claim",
   "groupAdd": "Added group %1$s",
   "groupRemove": "Removed group %1$s",
   "groupExist": "Group already exist",
@@ -124,6 +126,8 @@
   "screenMenuItemUse": "Allowed item use",
   "screenMenuBlockBreak": "Allowed block break",
   "screenMenuBlockUse": "Allowed block use",
+  "screenMenuEntityAttack": "Allowed entities to attack",
+  "screenMenuEntityUse": "Allowed entity interactions",
   "allowListEmptyTag": "Empty Tag",
   "chatClaimTextEdit": "[Click for command]",
   "sellDisabled": "Claimblocks selling is disabled",
@@ -156,6 +160,8 @@
   "setEnterSubMessage": "Set enter subtitle to %1$s",
   "setLeaveMessage": "Set leave title to %1$s",
   "setLeaveSubMessage": "Set leave subtitle to %1$s",
+  "addIgnoreEntry": "Added %1$s to the claims ignore list %2$s",
+  "removeIgnoreEntry": "Removed %1$s from the claims ignore list %2$s",
   "wiki": "For more info check out the wiki:",
   "flan:edit_claim": "Edit Claim",
   "flan:edit_perms": "Edit Perms",
@@ -521,6 +527,10 @@
   "command.claimMessage": [
     "claimMessage (enter | leave) (title | subtitle) (string | text) <value>",
     "Sets the claims message. Use \"$empty\" to remove the message"
+  ],
+  "command.ignoreList": [
+    "ignoreList (add | remove) <type> <value>",
+    "Adds/Removes an entry to the claim specific ignore list"
   ],
   "command.reload": [
     "reload",

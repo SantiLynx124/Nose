@@ -1,5 +1,13 @@
 [
   {
+    "biomeName": "biomesoplenty:mediterranean_forest",
+    "chance": 5
+  },
+  {
+    "biomeName": "biomesoplenty:jade_cliffs",
+    "chance": 5
+  },
+  {
     "biomeName": "biomesoplenty:wetland",
     "chance": 5
   },
@@ -14,13 +22,5 @@
   {
     "biomeName": "biomesoplenty:dead_forest",
     "chance": 2
-  },
-  {
-    "biomeName": "biomesoplenty:mediterranean_forest",
-    "chance": 5
-  },
-  {
-    "biomeName": "biomesoplenty:jade_cliffs",
-    "chance": 5
   }
 ]
