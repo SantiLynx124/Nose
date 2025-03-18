@@ -17993,3 +17993,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Mar2025 22:50:38.927] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
 [18Mar2025 22:51:38.927] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown
 [18Mar2025 22:52:38.927] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[18Mar2025 22:53:38.927] [Worker-Main-7/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-7 shutdown
+[18Mar2025 22:54:18.633] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[18Mar2025 22:54:18.634] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[18Mar2025 22:54:18.634] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[18Mar2025 22:54:18.634] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[18Mar2025 22:54:18.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[18Mar2025 22:54:18.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[18Mar2025 22:54:38.927] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-13 shutdown
+[18Mar2025 22:55:38.927] [Worker-Main-14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-14 shutdown
+[18Mar2025 22:56:38.927] [Worker-Main-16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-16 shutdown
+[18Mar2025 22:59:18.633] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[18Mar2025 22:59:18.633] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[18Mar2025 22:59:18.635] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[18Mar2025 22:59:18.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[18Mar2025 22:59:18.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
