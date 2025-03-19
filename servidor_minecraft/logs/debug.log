@@ -18094,3 +18094,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Mar2025 00:19:18.635] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
 [19Mar2025 00:19:18.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [19Mar2025 00:19:18.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[19Mar2025 00:24:18.632] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[19Mar2025 00:24:18.632] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[19Mar2025 00:24:18.636] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[19Mar2025 00:24:18.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[19Mar2025 00:24:18.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[19Mar2025 00:25:24.681] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-03-19 at /workspaces/Nose/servidor_minecraft/easy_npc/backup ...
+[19Mar2025 00:29:18.632] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[19Mar2025 00:29:18.632] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[19Mar2025 00:29:18.633] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[19Mar2025 00:29:18.633] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[19Mar2025 00:29:18.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[19Mar2025 00:29:18.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
